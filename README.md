@@ -1,4 +1,4 @@
-# Study Java Basic Grammer
+# Study Java Basic Grammar
 
 자바의 기본 문법 학습
 
